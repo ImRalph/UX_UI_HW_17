@@ -29,6 +29,7 @@ nav{
   .content{
     width:500px;
     margin:0 auto;
+    padding:1px;
     text-align: center;
   }
   footer{
@@ -67,7 +68,7 @@ nav{
   width:auto;
   margin-right:0px;
   margin-left: 0px;
-  padding-top:50px;
+  padding-top:10px;
   justify-content:center;
 }
 .text-block11{
@@ -83,7 +84,7 @@ nav{
 }
 .text-block2{
   display:flex;
-  margin-top:8px;
+  padding-top:1px;
   justify-content:center;
 }
 .text-block21{
@@ -99,7 +100,7 @@ nav{
 }
 .text-block3{
   display:flex;
-  margin-top:100px;
+  margin-top:1px;
   justify-content:center;
 }
 .text-block31{
