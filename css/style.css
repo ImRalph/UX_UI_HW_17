@@ -58,6 +58,8 @@ nav{
   .content img{
     float:left ;
     margin-right: 1px;
+    width:253;
+    height:300;
   }
 
 .text-block1{
@@ -105,4 +107,9 @@ nav{
   color:grey;
   font-size:21px;
   font-weight:300;
+}
+img{
+  width:103;
+  height:83;
+
 }
